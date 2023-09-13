@@ -1,0 +1,44 @@
+.wrapper {
+    width: 40%;
+  }
+  .container {
+background-position: center;
+position: relative;
+padding: 180px 100px;
+  }
+
+   body{
+    /* background-color: rgb(53, 54, 58); */
+    background-image: url('index.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center; 
+  } 
+#addTodo{
+    font-family: sans-serif;
+  }
+
+.form-group ,  h1{
+   
+    color: rgb(213, 226, 226);
+    }
+  .form-group ,h1:hover {
+    color: black;
+  
+  }
+  .btn-primary {
+    color: #fff;
+    background-color: #30353a;
+    border-color: #3c4147;
+}
+  
+ 
+
+  
+    
+  
+ 
+.completed {
+  text-decoration: line-through;
+  text-decoration-style:solid;
+}
